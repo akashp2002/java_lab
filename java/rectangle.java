@@ -15,8 +15,6 @@ public class rectangle {
         System.out.println("The perimeter of the circle is: " + perimeter);
 
         scanner.close();
-
-
-
+        
     }
 }
